@@ -14,17 +14,18 @@ ChatX is a versatile chat application that enables users to connect and chat wit
 
 Here are some screenshots of ChatX in action:
 
+
 ### Login Page
-![Login Page](https://example.com/login.png)
+![login](https://github.com/aj-02/ChatX/assets/82252072/48d092f6-80e9-4eec-b272-99b7e1d886ab)
 
 ### Register Page
-![Register Page](https://example.com/register.png)
+![image](https://github.com/aj-02/ChatX/assets/82252072/1bc848d1-d433-4d51-885f-bddcbdffa9cd)
 
 ### Users Page
-![Users Page](https://example.com/users.png)
+![image](https://github.com/aj-02/ChatX/assets/82252072/74dd2f5d-5dee-4771-b4eb-b36187cd636e)
 
 ### Chats Page
-![Chats Page](https://example.com/chats.png)
+![image](https://github.com/aj-02/ChatX/assets/82252072/88a5750e-f5af-4351-8e98-02a48007ea72)
 
 ## Getting Started
 
