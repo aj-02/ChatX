@@ -1,7 +1,7 @@
 
 # ChatX: Worldwide Chat Application
 
-ChatX is a versatile chat application that enables users to connect and chat with people worldwide. With seamless integration of Gmail and GitHub login via NextAuth, ChatX ensures a secure and hassle-free authentication process. Powered by Pusher and MongoDB, ChatX provides real-time messaging capabilities and stores user data and messages efficiently.
+ChatX is a versatile chat application that enables users to connect and chat with people worldwide. With seamless **integration of Gmail and GitHub login via NextAuth**, ChatX ensures a secure and hassle-free authentication process. **Powered by Pusher and MongoDB**, ChatX provides real-time messaging capabilities and stores user data and messages efficiently.
 
 ## Features
 
@@ -33,7 +33,7 @@ To get started with ChatX, follow these steps:
 
 1. Clone the ChatX repository to your local machine:
 
-- git clone https://github.com/yourusername/chatx.git
+- git clone https://github.com/AJ-02/chatx.git
 
 
 2. Install dependencies:
